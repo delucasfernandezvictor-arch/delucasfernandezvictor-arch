@@ -12,6 +12,7 @@ Estudiante de 2.º de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el
 ## Proyectos destacados
 | Proyecto | Qué es |
 |---|---|
+| [NexoStock](https://github.com/delucasfernandezvictor-arch/nexostock) | PWA de inventario y pedidos: roles, tiempo real, dashboard, RLS, 43 tests y CI/CD |
 | [Lab_Supabase](https://github.com/delucasfernandezvictor-arch/Lab_Supabase) | CRUD con autenticación, roles y Row Level Security en Supabase |
 | [CorporateAppVictor](https://github.com/delucasfernandezvictor-arch/CorporateAppVictor) | App corporativa web y Android con geolocalización |
 | [FormReactivos](https://github.com/delucasfernandezvictor-arch/FormReactivos) | Formularios reactivos vs template-driven con validación |
